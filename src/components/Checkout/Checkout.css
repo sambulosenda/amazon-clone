@@ -1,0 +1,20 @@
+.checkout__ad{
+    width: 100%;
+}
+.checkout{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+
+}
+
+
+.checkout__title{
+    
+}
+
+
+@media screen and ( max-width: 500px ) { 
+    .checkout { flex-direction: column; }
+  }

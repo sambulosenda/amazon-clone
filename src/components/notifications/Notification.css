@@ -1,0 +1,11 @@
+.notification{
+    background-color:#131921;
+    margin: 20px auto 0;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.stripe_text{
+   padding:  10px 14px !important;
+   color :white;
+}

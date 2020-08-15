@@ -15,7 +15,6 @@ function Checkout() {
                     src="https://images-eu.ssl-images-amazon.com/images/G/31/prime/primedeals/XCM_Manual_1186807_Prime_deals_Page_GW_1500x250_Prime_XCM_Manual_1186807_1500x200_Eng_1566899294_jpg.jpg"
                     alt=""
                 />
-
                 {basket?.length === 0 ? (
                     <div>
                         <h2>Your Shopping basket is empty</h2>
